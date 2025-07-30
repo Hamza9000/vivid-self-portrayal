@@ -52,13 +52,13 @@ const Hero = () => {
               <Mail className="w-6 h-6 text-white" />
             </a>
             <a 
-              href="#" 
+              href="https://github.com/Hamza9000" 
               className="p-3 bg-white/10 rounded-full hover:bg-white/20 transition-all duration-300 hover:scale-110"
             >
               <Github className="w-6 h-6 text-white" />
             </a>
             <a 
-              href="#" 
+              href="https://www.linkedin.com/in/hamza-aslam-178370356?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" 
               className="p-3 bg-white/10 rounded-full hover:bg-white/20 transition-all duration-300 hover:scale-110"
             >
               <Linkedin className="w-6 h-6 text-white" />
